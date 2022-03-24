@@ -51,6 +51,3 @@ subtitle = "Lisez à propos de mes derniers projets"
     category = ""
     publication_type = ""
     exclude_featured = false
-+++
-
-:disappointed: Il n'y a aucun post pour le moment. :disappointed:

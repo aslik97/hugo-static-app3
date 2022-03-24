@@ -45,7 +45,7 @@ date_format = "Jan 2006" # Date format https://gohugo.io/functions/dateformat/#r
   description = "Professionalization of the interface processes between technic and clients."
 
 [[period]]
-  title = "Trainee"
+  title = "Intern"
   subtitle = " "
   location = "Ars24Studio"
   date_start = "2015-07-01"
@@ -53,7 +53,7 @@ date_format = "Jan 2006" # Date format https://gohugo.io/functions/dateformat/#r
   description = "Billing and recording of customer data and costumer dialogue."
 
 [[period]]
-  title = "Trainee"
+  title = "Intern"
   subtitle = " "
   location = "Zeynep Textiles"
   date_start = "2014-08-15"

@@ -7,11 +7,9 @@ date = 2022-03-22
 description = "A package full of Microsofties."
 
 # Comment next line and the default banner will be used.
-banner = 'img/krabby_patty.webp'
+banner = 'img/MS_BLOG_PIC.png'
 
 +++
-
-## Ingredients:
 
 At Microsoft I believe that everyone goes through their own journey in the most open minded environment that one could ever wish for… So, what I am writing is about my internship journey. 
 First Month: Onboarding

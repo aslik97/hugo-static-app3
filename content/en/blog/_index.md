@@ -2,5 +2,5 @@
 title = "Choose your interest"
 # Default banner
 [cascade]
-  banner = "img/default_banner.webp"
+  banner = "img/MS_BLOG_PIC.png"
 +++
