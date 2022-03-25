@@ -18,7 +18,7 @@ date_format = "Jan 2006" # Date format https://gohugo.io/functions/dateformat/#r
   location = "Microsoft"
   date_start = "2021-10-01"
   date_end = ""
-  description = "Chief cook of the biggest restaurant of Bikini Bottom."
+  description = ""
 
   [[period]]
   title = "Technical Support"

@@ -25,7 +25,7 @@ hero_media = "/img/pp.PNG"
 
 +++
 
-# little little into the middle
+# SMILE! 
 
 Homemade food, some of my hobbies, my kind of art and learnings... 
 
