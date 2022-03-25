@@ -4,7 +4,7 @@
 	"description": "",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
-		"build": "hugo -b https://gray-wave-04ee3d303.azurestaticapps.net/"
+		"build": "hugo -b https://www.aslihan.org"
 	},
 	"keywords": [],
 	"author": "Alexandre Negrel",
