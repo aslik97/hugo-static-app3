@@ -54,6 +54,3 @@ placeholder = "Your message..."
 required = true
 
 +++
-
-Need help to open a fast-food ?
-Let’s talk about it !
