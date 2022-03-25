@@ -1,7 +1,6 @@
 +++
 title = "About me"
-
-type = "blog"
+type = ""
 +++
 
 I'm a Master Mathematics **student** at TUM who works as a Cloud Solution Architect intern at **Microsoft** in Munich, Germany. You can take a look at my post about my journey at [Microsoft](/blog/ms_internship).
