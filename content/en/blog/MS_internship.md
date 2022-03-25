@@ -4,7 +4,7 @@ subtitle = "My journey as an intern."
 date = 2022-03-25
 
 # For description meta tag
-description = "A Microsoftie."
+description = "Story of a Microsoftie"
 
 # Comment next line and the default banner will be used.
 banner = 'img/nostalgic.jpg'
