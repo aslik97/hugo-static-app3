@@ -52,13 +52,6 @@ icon = "/icons/twitter.svg"
 name = "twitter"
 url = "https://twitter.com/aslikullelioglu"
 
-[[params.social]]
-alt = "VSCO icon"
-blank = true
-icon = "/icons/vsco.svg"
-name = "vsco"
-url = "https://vsco.co/aslikullelioglu/gallery"
-
 # Navigation bar
 [menu]
 
@@ -75,10 +68,17 @@ url = "/blog/"
 weight = 20 
 
 [[menu.main]]
+identifier = "gallery" # identifier is use for translations
+pre = "" # pre is inserted before the translation (icons, image, etc)
+url = "/#gallery" 
+weight = 30 
+
+
+[[menu.main]]
 identifier = "contact" # identifier is use for translations
 pre = "" # pre is inserted before the translation (icons, image, etc)
 url = "/#contact" 
-weight = 30 
+weight = 40 
 
 # Syntax highlightning
 [markup.highlight]
