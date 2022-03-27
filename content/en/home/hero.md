@@ -25,7 +25,7 @@ hero_media = "/img/pp.PNG"
 
 +++
 
-# SMILE! 
+# Hey there! 
 
-Homemade food, some of my hobbies, my kind of art and learnings... 
+a place where I share about my learnings and hobbies...
 
