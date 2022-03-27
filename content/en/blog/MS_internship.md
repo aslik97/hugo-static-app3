@@ -1,7 +1,7 @@
 +++
 title = "6 months and counting"
 subtitle = "My journey as an intern."
-date = 2022-03-25
+date = 2022-03-27
 
 # For description meta tag
 description = "A Microsoftie."
@@ -31,7 +31,7 @@ Getting near to the new year, my main task started to shape itself. I was going 
 4.	Visualization & Reporting -> Power Bi 
 ![](/img/architecture.png)
 Of course, there were a couple of other challenges during the creation of my app. I had to learn HTML to create a Newsletter Template and not everything worked as planned, but thanks to my awesome colleagues also from different departments, I had the opportunity to ask some of my questions spontaneously and to my mentor. Feeling lucky to have such colleagues around and have the opportunity to be a part of this community. The functionality of the Power App was already almost there through the end of January.
-## Fifth Month : Collecting feedbacks and some other Tasks
+## Fifth Month : Other Tasks
  I started to present my app to some colleagues and collected their feedbacks and made changes, some more changes, A LOT OF CHANGES. Learnt that if you have an App, it is never perfect and there can always be a better version 😊.
  ![](/img/powerapp.png)
   I prepared for an exam at the university in February (not recommended when you are working full time!). I got some tasks for customers and another Tipp for the newbies: You don’t get a task if you don’t ask for it, so go for it if you seek the opportunity! 
@@ -42,10 +42,12 @@ Beginning march, I became an onboarding buddy myself. Such a pleasure to be able
 
 There were also days when working was really hard. Especially during these hard times of Ukraine-Russia-War that started a month ago. I had to act and do something against the disaster other than just feeling the pain and staying at home. I find it important when such companies like Microsoft stand in situations like this and I was seeing the huge number of people willing to help, those affected by the war in Ukraine. There were a lot of ongoing internal initiatives happening. I wanted to use my skills to help and I saw the App initiative. This was where I was happy to support the internal app initiative with my learnings from Power Platform. I believe that like-minded people working together in such situations possess more force than individuals.
 
+A lot of other things also happened this month. Shadowing different customer meetings, workshops and starting with a Power BI related project with a colleague from a different unit...
+
 ## Summary & What’s next?
 As mentioned before, I believe that it is a never-ending journey if you love learning and helping others! I didn’t always mention it before but shadowing in customer meetings teach me a lot. At first my questions were not always making much sense 😊 but continuing asking is kind of the key. 
 
-I am a Cloud Solution Architect intern since October 2021 and I admire my position every day a little more. It is such a broad position that most of the Cloud Solution Architects define their position differently. Sometimes more technical and sometimes more strategic. This is why I am still learning my role and how I can “…make others cool”-er! I am trying to understand everything during shadowing customer meetings and get some tasks afterwards. 
+I am a Cloud Solution Architect intern since October 2021 and I admire the position every day a little more. It is such a broad position that most of the Cloud Solution Architects define their position differently. Sometimes more technical and sometimes more strategic. This is why I am still learning my role and how I can “…make others cool”-er! I am trying to understand everything during shadowing customer meetings and get some tasks afterwards. 
 Back to the Power App I created, it is in the Beta-Test phase and plan is to release it in the next weeks. Right now, I am preparing for the next challenge to take the AZ-104 exam. Goal is to be able to have more knowledge in Azure and to take more tasks for the customers for their journey to Azure! But lets not forget,  “the road is more important than the goal”. 
 
 So what’s next? My internship is going to end this month and I am going to continue as a Cloud Solution Architect working student. Plan is to be a part of such great projects with so many learnings!
