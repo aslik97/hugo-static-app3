@@ -68,10 +68,16 @@ url = "/blog/"
 weight = 20 
 
 [[menu.main]]
-identifier = "contact" # identifier is use for translations
+identifier = "gallery" # identifier is use for translations
 pre = "" # pre is inserted before the translation (icons, image, etc)
 url = "/#contact" 
 weight = 30 
+
+[[menu.main]]
+identifier = "contact" # identifier is use for translations
+pre = "" # pre is inserted before the translation (icons, image, etc)
+url = "/#contact" 
+weight = 40 
 
 # Syntax highlightning
 [markup.highlight]
