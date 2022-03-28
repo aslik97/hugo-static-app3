@@ -11,7 +11,7 @@ banner = 'img/nostalgic.jpg'
 
 +++
 
-At Microsoft I believe that everyone goes through their own journey in the most open minded environment that one could ever wish for… So, what I am writing is about my internship journey. 
+At Microsoft, I believe that everyone goes through their own journey in the most open minded environment that one could ever wish for… So, what I am writing is about my internship journey. 
 ## First Month: Onboarding
 On my first day at Microsoft, I was told that, “the time at Microsoft will fly”. The best way I can describe my experience at Microsoft is through the book [“Making Time”.](https://www.stevenmtaylor.com/books/making-time/) The familiarity makes the time pass faster and the more information our minds take in, the slower time seems to pass. That being said, the combination of the familiarity and my learnings makes the time here at Microsoft a wonderful unique experience. When I reminisce 5 months ago, I feel like it was yesterday. Me  coming into the office the first time, so excited and curious about the things I will experience. There was so much information to take in that I felt like a child at the beginning. Well, I was the child in the sense that I was starting with a new chapter of my life with a lot of learnings, and the time seemed to be slow. But there were many like me and we were stepping into a new world together which enabled me to meet a lot of amazing supportive interns and amazing colleagues during my first weeks. By means of my dearest onboarding buddy and my mentor I felt the welcoming atmosphere and he was always supportive and showed me the way around.
 ![](/img/interns.jpeg)
