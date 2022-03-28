@@ -1,7 +1,7 @@
 +++
 title = "6 months and counting"
 subtitle = "My journey as an intern."
-date = 2022-03-27
+date = 2022-03-25
 
 # For description meta tag
 description = "A Microsoftie."
